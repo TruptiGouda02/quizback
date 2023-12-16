@@ -1,4 +1,4 @@
-// server.js
+
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
@@ -11,7 +11,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 const corsOptions = {
-    origin: ['http://localhost:5173','https://frontquiz-8593.onrender.com'], 
+    origin: ['http://localhost:5173'], 
     credentials: true,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,UPDATE',
     optionsSuccessStatus: 204,
@@ -22,7 +22,7 @@ app.use(cors(corsOptions));
 app.use(bodyParser.json());
 
 
-mongoose.connect('mongodb+srv://shaiksalam2002:<Salam@2002>@cluster0.sjaa1ru.mongodb.net/', {});
+mongoose.connect('mongodb://localhost:27017/language_game', {});
 
 
 const User = require('./models/user');
