@@ -23,7 +23,7 @@ app.use(bodyParser.json());
 
 
 mongoose.connect('mongodb://localhost:27017/language_game', {});
-
+mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true });
 
 const User = require('./models/user');
 const Exercise = require('./models/exercise');
