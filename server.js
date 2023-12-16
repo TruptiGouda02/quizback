@@ -11,7 +11,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 const corsOptions = {
-    origin: 'http://localhost:5173', 
+    origin: ['http://localhost:5173','https://quizback.onrender.com'], 
     credentials: true,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,UPDATE',
     optionsSuccessStatus: 204,
@@ -20,6 +20,7 @@ const corsOptions = {
 app.use(cors(corsOptions));
   
 app.use(bodyParser.json());
+
 
 mongoose.connect('mongodb://localhost:27017/language_game', {});
 
