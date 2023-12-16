@@ -1,0 +1,1170 @@
+[{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d0"
+  },
+  "question": "I ____ to learn a lot of new words",
+  "options": [
+    "am going",
+    "will",
+    "can",
+    "will be"
+  ],
+  "answer": "am going",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d1"
+  },
+  "question": "She ____ to the party if she finishes her work on time",
+  "options": [
+    "will come",
+    "is coming",
+    "comes",
+    "come"
+  ],
+  "answer": "will come",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d2"
+  },
+  "question": "If it rains, we ____ our plans for a picnic",
+  "options": [
+    "will cancel",
+    "are cancelling",
+    "cancel",
+    "cancelling"
+  ],
+  "answer": "will cancel",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d3"
+  },
+  "question": "He ____ breakfast at 8 AM every day",
+  "options": [
+    "will have",
+    "had",
+    "has",
+    "have"
+  ],
+  "answer": "has",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d4"
+  },
+  "question": "They ____ at the cinema tomorrow evening",
+  "options": [
+    "will be",
+    "are being",
+    "be",
+    "being"
+  ],
+  "answer": "will be",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d5"
+  },
+  "question": "I ____ my keys if you hadn't reminded me",
+  "options": [
+    "will forget",
+    "forgot",
+    "am forgetting",
+    "have forgotten"
+  ],
+  "answer": "would have forgotten",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d6"
+  },
+  "question": "If I ____ you, I would apologize",
+  "options": [
+    "am",
+    "was",
+    "were",
+    "be"
+  ],
+  "answer": "were",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d7"
+  },
+  "question": "They ____ to the beach every summer",
+  "options": [
+    "are going",
+    "go",
+    "will go",
+    "going"
+  ],
+  "answer": "go",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d8"
+  },
+  "question": "My sister ____ a doctor when she grows up",
+  "options": [
+    "will become",
+    "becomes",
+    "is becoming",
+    "become"
+  ],
+  "answer": "will become",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3d9"
+  },
+  "question": "If it ____ tomorrow, we can have a picnic",
+  "options": [
+    "rains",
+    "will rain",
+    "rain",
+    "is raining"
+  ],
+  "answer": "rains",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3da"
+  },
+  "question": "We ____ on vacation next month",
+  "options": [
+    "are going",
+    "will be going",
+    "will go",
+    "go"
+  ],
+  "answer": "are going",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3db"
+  },
+  "question": "She ____ studying for three hours by 7 PM",
+  "options": [
+    "will be",
+    "will have been",
+    "will have",
+    "will"
+  ],
+  "answer": "will have been",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3dc"
+  },
+  "question": "By next year, they ____ English for five years",
+  "options": [
+    "will have studied",
+    "are studying",
+    "study",
+    "studied"
+  ],
+  "answer": "will have studied",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3dd"
+  },
+  "question": "She ____ her homework before going to the party",
+  "options": [
+    "does",
+    "did",
+    "will do",
+    "has done"
+  ],
+  "answer": "will do",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3de"
+  },
+  "question": "He ____ the report by tomorrow morning",
+  "options": [
+    "will finish",
+    "is finishing",
+    "finishes",
+    "finish"
+  ],
+  "answer": "will finish",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3df"
+  },
+  "question": "The concert ____ by the time we arrive",
+  "options": [
+    "will start",
+    "starts",
+    "is starting",
+    "started"
+  ],
+  "answer": "will have started",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3e0"
+  },
+  "question": "If you ____ to the party, I will be disappointed",
+  "options": [
+    "don't come",
+    "won't come",
+    "doesn't come",
+    "not come"
+  ],
+  "answer": "don't come",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc6ce34214d9ad6deb3e1"
+  },
+  "question": "She ____ to London several times before moving there",
+  "options": [
+    "has been",
+    "was",
+    "is",
+    "will be"
+  ],
+  "answer": "had been",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3e2"
+  },
+  "question": "We ____ our friends at the restaurant yesterday",
+  "options": [
+    "are meeting",
+    "will meet",
+    "meet",
+    "met"
+  ],
+  "answer": "met",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3e3"
+  },
+  "question": "If she ____ hard, she will pass the exam",
+  "options": [
+    "is studying",
+    "study",
+    "studies",
+    "studying"
+  ],
+  "answer": "studies",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3e4"
+  },
+  "question": "I ____ my umbrella at home this morning",
+  "options": [
+    "forget",
+    "will forget",
+    "forgot",
+    "forgetting"
+  ],
+  "answer": "forgot",
+  "difficulty": 1,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3e5"
+  },
+  "question": "She ____ the book before you arrive",
+  "options": [
+    "reads",
+    "will read",
+    "reading",
+    "read"
+  ],
+  "answer": "will read",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3e6"
+  },
+  "question": "They ____ to the movies last night",
+  "options": [
+    "are going",
+    "will go",
+    "went",
+    "going"
+  ],
+  "answer": "went",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3e7"
+  },
+  "question": "The train ____ by the time we reach the station",
+  "options": [
+    "leaves",
+    "will leave",
+    "left",
+    "leave"
+  ],
+  "answer": "will have left",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3e8"
+  },
+  "question": "If you ____ him, you would understand",
+  "options": [
+    "know",
+    "knows",
+    "knew",
+    "known"
+  ],
+  "answer": "knew",
+  "difficulty": 2,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3e9"
+  },
+  "question": "I ____ to the gym three times a week",
+  "options": [
+    "will go",
+    "go",
+    "going",
+    "went"
+  ],
+  "answer": "go",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3ea"
+  },
+  "question": "They ____ on this project for a year now",
+  "options": [
+    "are working",
+    "will work",
+    "work",
+    "working"
+  ],
+  "answer": "have been working",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3eb"
+  },
+  "question": "By next month, she ____ French for five years",
+  "options": [
+    "will have learned",
+    "learn",
+    "is learning",
+    "learned"
+  ],
+  "answer": "will have learned",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3ec"
+  },
+  "question": "He ____ if he had studied harder",
+  "options": [
+    "passes",
+    "will pass",
+    "passed",
+    "would have passed"
+  ],
+  "answer": "would have passed",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3ed"
+  },
+  "question": "If it ____ last night, the ground would be wet now",
+  "options": [
+    "rains",
+    "rain",
+    "rained",
+    "is raining"
+  ],
+  "answer": "had rained",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "657bc70e34214d9ad6deb3ee"
+  },
+  "question": "We ____ to the concert if we had bought tickets",
+  "options": [
+    "will go",
+    "are going",
+    "went",
+    "would have gone"
+  ],
+  "answer": "would have gone",
+  "difficulty": 3,
+  "language": "English"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560005"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಕುರಿ ದೊಡ್ಡದು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ ಯಾವ ಭಾವಚಿತ್ರಣ ಉಚಿತ?",
+  "options": [
+    "ಕುರಿ",
+    "ದೊಡ್ಡದು",
+    "ಕುರಿ ದೊಡ್ಡದು",
+    "ಕುರಿ ದೊಡ್ಡವು"
+  ],
+  "answer": "ಕುರಿ ದೊಡ್ಡದು",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560006"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಹಾಡು ಹೇಗಿದೆ?' ಎಂಬ ಪ್ರಶ್ನೆಯ ಉತ್ತರ ಏನು?",
+  "options": [
+    "ಚೆನ್ನಾಗಿದೆ",
+    "ನನಗೆ ಇಷ್ಟವಿಲ್ಲ",
+    "ಹಾಡುತ್ತಿದ್ದೇನೆ",
+    "ನಾನು ಹಾಡುವುದಿಲ್ಲ"
+  ],
+  "answer": "ಹಾಡುತ್ತಿದ್ದೇನೆ",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560007"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಸಾಗು ಹೋಗು' ಎಂಬ ಪದದ ವಿಶೇಷಣ ಯಾವುದು?",
+  "options": [
+    "ಹೊಸ",
+    "ಹೋಗುವ",
+    "ಸಾಗು",
+    "ಬೆಳ್ಳಗೆ"
+  ],
+  "answer": "ಹೋಗು",
+  "difficulty": 2,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560008"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ನಾನು ಓದುತ್ತಿದ್ದೇನೆ' ಎಂಬ ಪ್ರಶ್ನೆಯ ಉತ್ತರ ಏನು?",
+  "options": [
+    "ನಾನು ಓದುತ್ತಿದ್ದೇನೆ",
+    "ನೀನು ಓದುತ್ತಿದ್ದೀಯೇ?",
+    "ನಾವು ಚಿತ್ರ ನೋಡುತ್ತಿದ್ದೇವೆ",
+    "ಎಲ್ಲವೂ ಸರಿಯಿದೆ"
+  ],
+  "answer": "ನಾನು ಓದುತ್ತಿದ್ದೇನೆ",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560009"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ನಾವು ಚಿತ್ರ ನೋಡುತ್ತಿದ್ದೇವೆ' ಎಂಬ ಪ್ರಶ್ನೆಯ ಉತ್ತರ ಏನು?",
+  "options": [
+    "ನಾನು ಓದುತ್ತಿದ್ದೇನೆ",
+    "ನೀನು ಓದುತ್ತಿದ್ದೀಯೇ?",
+    "ನಾವು ಚಿತ್ರ ನೋಡುತ್ತಿದ್ದೇವೆ",
+    "ಎಲ್ಲವೂ ಸರಿಯಿದೆ"
+  ],
+  "answer": "ನಾವು ಚಿತ್ರ ನೋಡುತ್ತಿದ್ದೇವೆ",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f56000a"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಹೊಸ ಪುಸ್ತಕ ಓದು' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ ಯಾವ ಕ್ರಿಯಾಪದ ಸರಿ?",
+  "options": [
+    "ಹೊಸ",
+    "ಪುಸ್ತಕ",
+    "ಓದು",
+    "ಹೊಸ ಪುಸ್ತಕ ಓದು"
+  ],
+  "answer": "ಓದು",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f56000b"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಹೇಗಿದ್ದೀರಿ?' ಎಂಬ ಪ್ರಶ್ನೆಗೆ ಉತ್ತರ ಏನು?",
+  "options": [
+    "ಚೆನ್ನಾಗಿದೆ",
+    "ನನ್ನೆಲ್ಲಾ ಸರಿಯಿದೆ",
+    "ಸ್ವಸ್ತಿ",
+    "ನಾನೂ ನಿಮ್ಮನ್ನೇ ಕೇಳುತ್ತೇನೆ"
+  ],
+  "answer": "ಚೆನ್ನಾಗಿದೆ",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f56000c"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ನಾವು ಬೇಕಾದಷ್ಟು ಓದಿದ್ದೇವೆ' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ ಯಾವ ಸರಿಯಾದ ಭಾವಚಿತ್ರಣ?",
+  "options": [
+    "ನಾವು",
+    "ಬೇಕಾದಷ್ಟು",
+    "ಓದಿದ್ದೇವೆ",
+    "ನಾವು ಬೇಕಾದಷ್ಟು ಓದಿದ್ದೇವೆ"
+  ],
+  "answer": "ನಾವು ಬೇಕಾದಷ್ಟು ಓದಿದ್ದೇವೆ",
+  "difficulty": 2,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f56000d"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಅವನು ಸ್ವಲ್ಪ ಹೊಡೆದುಕೊ' ಎಂಬ ವಾಕ್ಯದಲ್ಲಿ ಯಾವ ಅಕ್ಷರ ಸರಿ?",
+  "options": [
+    "ಅ",
+    "ಸ್ವ",
+    "ಹೊಡೆದುಕೊ",
+    "ಹೊಡೆದುಕೊ"
+  ],
+  "answer": "ಹೊಡೆದುಕೊ",
+  "difficulty": 2,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560001"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಅವನು' ಎಂಬ ಪದದ ಸಂಬಂಧಪದ ಯಾವುದು?",
+  "options": [
+    "ಆತನ",
+    "ಅವಳು",
+    "ಅದು",
+    "ಅವರು"
+  ],
+  "answer": "ಅವನ",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560002"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಹೇಗಿದ್ದೀರಿ?' ಎಂಬ ಪ್ರಶ್ನೆಯ ಉತ್ತರ ಏನು?",
+  "options": [
+    "ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+    "ನನ್ನೆಲ್ಲಾ ಸರಿಯಿದೆ",
+    "ಸ್ವಸ್ತಿ",
+    "ನಾನೂ ನಿಮ್ಮನ್ನೇ ಕೇಳುತ್ತೇನೆ"
+  ],
+  "answer": "ಚೆನ್ನಾಗಿದ್ದೇನೆ",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560003"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಏನು ಮಾಡುತ್ತೀರಿ?' ಎಂಬ ಪ್ರಶ್ನೆಯ ಉತ್ತರ ಏನು?",
+  "options": [
+    "ನಾನು ಊಟ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+    "ನೀನು ಓದುತ್ತಿದ್ದೀಯೇ?",
+    "ನಾವು ಚಿತ್ರ ನೋಡುತ್ತಿದ್ದೇವೆ",
+    "ಎಲ್ಲವೂ ಸರಿಯಿದೆ"
+  ],
+  "answer": "ನಾನು ಊಟ ಮಾಡುತ್ತಿದ್ದೇನೆ",
+  "difficulty": 1,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "63a22e678f53a4391f560004"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಹೋಗಬೇಕು' ಎಂಬ ಪದದ ವಿಶೇಷಣ ಯಾವುದು?",
+  "options": [
+    "ಹೊಸ",
+    "ದೊಡ್ಡ",
+    "ಹೋಗುವ",
+    "ಬೆಳ್ಳಗೆ"
+  ],
+  "answer": "ಹೋಗುವ",
+  "difficulty": 2,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "657d1575b391917f2f4d5d7b"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಮೊಬೈಲ್‌' ಪದಕ್ಕೆ ಅರ್ಥ ಏನು?",
+  "options": [
+    "ತಂತ್ರಾಂಶ",
+    "ಸಿನಿಮಾ",
+    "ಹಡಗು",
+    "ಗೋಡೆ"
+  ],
+  "answer": "ತಂತ್ರಾಂಶ",
+  "difficulty": 3,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "657d1575b391917f2f4d5d7c"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ವಾಯು' ಪದಕ್ಕೆ ಅರ್ಥ ಏನು?",
+  "options": [
+    "ನೀರು",
+    "ಬಳಸು",
+    "ಹೂ",
+    "ಗಾಳಿ"
+  ],
+  "answer": "ಗಾಳಿ",
+  "difficulty": 3,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "657d15aab391917f2f4d5d7d"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಪರ್ವ' ಎಂದರೆ ಯಾವ ಪದ?",
+  "options": [
+    "ಹಬ್ಬ",
+    "ವಿಶೇಷ",
+    "ಚೆನ್ನಾಗಿದೆ",
+    "ವಿವಿಧ"
+  ],
+  "answer": "ಹಬ್ಬ",
+  "difficulty": 3,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "657d15aab391917f2f4d5d7e"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಅರಮನೆ' ಪದಕ್ಕೆ ಅರ್ಥ ಏನು?",
+  "options": [
+    "ಮನೆ",
+    "ಹೊರ",
+    "ಅಂಗಡಿ",
+    "ಅರಮನೆ"
+  ],
+  "answer": "ಅರಮನೆ",
+  "difficulty": 3,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "657d15e0b391917f2f4d5d7f"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಪರ್ವ' ಎಂದರೆ ಯಾವ ಪದ?",
+  "options": [
+    "ಹಬ್ಬ",
+    "ವಿಶೇಷ",
+    "ಚೆನ್ನಾಗಿದೆ",
+    "ವಿವಿಧ"
+  ],
+  "answer": "ಹಬ್ಬ",
+  "difficulty": 3,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "657d15e0b391917f2f4d5d80"
+  },
+  "question": "ಕನ್ನಡದಲ್ಲಿ 'ಅರಮನೆ' ಪದಕ್ಕೆ ಅರ್ಥ ಏನು?",
+  "options": [
+    "ಮನೆ",
+    "ಹೊರ",
+    "ಅಂಗಡಿ",
+    "ಅರಮನೆ"
+  ],
+  "answer": "ಅರಮನೆ",
+  "difficulty": 3,
+  "language": "Kannada"
+},
+{
+  "_id": {
+    "$oid": "657d177bb391917f2f4d5d81"
+  },
+  "question": "हिंदी में 'कुत्ता' शब्द का सिंहार्थ क्या है?",
+  "options": [
+    "गाय",
+    "बिल्ली",
+    "कुआ",
+    "शेर"
+  ],
+  "answer": "शेर",
+  "difficulty": 1,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d177bb391917f2f4d5d82"
+  },
+  "question": "हिंदी में 'पेड़' शब्द का समानार्थी क्या है?",
+  "options": [
+    "उगाव",
+    "वृक्ष",
+    "गाड़ी",
+    "दुकान"
+  ],
+  "answer": "वृक्ष",
+  "difficulty": 1,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d177bb391917f2f4d5d83"
+  },
+  "question": "हिंदी में 'बारिश' का विलोम क्या है?",
+  "options": [
+    "बर्फबारी",
+    "सूखा",
+    "हवा",
+    "बर्फगिरी"
+  ],
+  "answer": "सूखा",
+  "difficulty": 1,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d177bb391917f2f4d5d84"
+  },
+  "question": "हिंदी में 'पुस्तक' का अर्थ क्या है?",
+  "options": [
+    "कागज",
+    "गुब्बारा",
+    "किताब",
+    "फूल"
+  ],
+  "answer": "किताब",
+  "difficulty": 1,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d1799b391917f2f4d5d85"
+  },
+  "question": "हिंदी में 'रंग' शब्द का समानार्थी क्या है?",
+  "options": [
+    "गरमी",
+    "सफेद",
+    "उड़ान",
+    "वर्ण"
+  ],
+  "answer": "वर्ण",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d1799b391917f2f4d5d86"
+  },
+  "question": "हिंदी में 'आसमान' का विपरीतार्थी क्या है?",
+  "options": [
+    "धरा",
+    "दबान",
+    "मिट्टी",
+    "समुद्र"
+  ],
+  "answer": "धरा",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d1799b391917f2f4d5d87"
+  },
+  "question": "हिंदी में 'समझाना' का समानार्थी क्या है?",
+  "options": [
+    "बताना",
+    "कहना",
+    "सुनाना",
+    "बोलना"
+  ],
+  "answer": "बताना",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d1799b391917f2f4d5d88"
+  },
+  "question": "हिंदी में 'स्वतंत्रता' का विपरीतार्थी क्या है?",
+  "options": [
+    "बंदिगी",
+    "रोजगार",
+    "समृद्धि",
+    "नौकरी"
+  ],
+  "answer": "बंदिगी",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d17bdb391917f2f4d5d89"
+  },
+  "question": "हिंदी में 'सबसे' का समानार्थी क्या है?",
+  "options": [
+    "बहुत",
+    "सबको",
+    "सबसे ज्यादा",
+    "पहले"
+  ],
+  "answer": "सबसे ज्यादा",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d17bdb391917f2f4d5d8a"
+  },
+  "question": "हिंदी में 'गाड़ी' का विपरीतार्थी क्या है?",
+  "options": [
+    "अन्न",
+    "कपड़ा",
+    "बुक",
+    "पैदल चलना"
+  ],
+  "answer": "पैदल चलना",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d17bdb391917f2f4d5d8b"
+  },
+  "question": "हिंदी में 'सही' का विपरीतार्थी क्या है?",
+  "options": [
+    "ग़लत",
+    "सच",
+    "साफ",
+    "आसान"
+  ],
+  "answer": "ग़लत",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d17bdb391917f2f4d5d8c"
+  },
+  "question": "हिंदी में 'स्वास्थ्य' का समानार्थी क्या है?",
+  "options": [
+    "बीमारी",
+    "चिकित्सा",
+    "सेहत",
+    "खानपान"
+  ],
+  "answer": "सेहत",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d17deb391917f2f4d5d8d"
+  },
+  "question": "हिंदी में 'उच्च' का विपरीतार्थी क्या है?",
+  "options": [
+    "नीचे",
+    "आसमान",
+    "सबसे ऊपर",
+    "कच्चा"
+  ],
+  "answer": "नीचे",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d17deb391917f2f4d5d8e"
+  },
+  "question": "हिंदी में 'अद्वितीय' का अर्थ क्या है?",
+  "options": [
+    "एकमात्र",
+    "अनंत",
+    "बहुवचन",
+    "समृद्ध"
+  ],
+  "answer": "एकमात्र",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d17deb391917f2f4d5d8f"
+  },
+  "question": "हिंदी में 'स्थिति' का समानार्थी क्या है?",
+  "options": [
+    "स्थान",
+    "यात्रा",
+    "समाप्ति",
+    "स्वीकृति"
+  ],
+  "answer": "स्थान",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d17deb391917f2f4d5d90"
+  },
+  "question": "हिंदी में 'उद्देश्य' का अर्थ क्या है?",
+  "options": [
+    "सफलता",
+    "लाभ",
+    "मकसद",
+    "कारण"
+  ],
+  "answer": "मकसद",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d180ab391917f2f4d5d91"
+  },
+  "question": "हिंदी में 'विकास' का विपरीतार्थी क्या है?",
+  "options": [
+    "पतन",
+    "वृद्धि",
+    "समृद्धि",
+    "विकसन"
+  ],
+  "answer": "पतन",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d180ab391917f2f4d5d92"
+  },
+  "question": "हिंदी में 'स्वीकृति' का अर्थ क्या है?",
+  "options": [
+    "अस्वीकृति",
+    "मान्यता",
+    "अनुमोदन",
+    "स्वीकृति"
+  ],
+  "answer": "अनुमोदन",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d180ab391917f2f4d5d93"
+  },
+  "question": "हिंदी में 'परिस्थिति' का समानार्थी क्या है?",
+  "options": [
+    "समाधान",
+    "परिस्थिति",
+    "समर्थन",
+    "सामरिक"
+  ],
+  "answer": "समर्थन",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d180ab391917f2f4d5d94"
+  },
+  "question": "हिंदी में 'अच्छूत' का विपरीतार्थी क्या है?",
+  "options": [
+    "अच्छूत",
+    "शुद्ध",
+    "पवित्र",
+    "अशुद्ध"
+  ],
+  "answer": "अशुद्ध",
+  "difficulty": 2,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d1823b391917f2f4d5d95"
+  },
+  "question": "हिंदी में 'बच्चा' का विपरीतार्थी क्या है?",
+  "options": [
+    "बूढ़ा",
+    "युवा",
+    "जवान",
+    "बच्चा"
+  ],
+  "answer": "बूढ़ा",
+  "difficulty": 1,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d1823b391917f2f4d5d96"
+  },
+  "question": "हिंदी में 'सच्चाई' का समानार्थी क्या है?",
+  "options": [
+    "ज्ञान",
+    "सच्चाई",
+    "विवेक",
+    "सत्य"
+  ],
+  "answer": "सत्य",
+  "difficulty": 1,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d1823b391917f2f4d5d97"
+  },
+  "question": "हिंदी में 'गर्मी' का विपरीतार्थी क्या है?",
+  "options": [
+    "ठंडा",
+    "सर्दी",
+    "शीत",
+    "गर्मी"
+  ],
+  "answer": "शीत",
+  "difficulty": 1,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d1823b391917f2f4d5d98"
+  },
+  "question": "हिंदी में 'सुखद' का अर्थ क्या है?",
+  "options": [
+    "आनंदपूर्ण",
+    "सुखद",
+    "खुशी",
+    "मनोहर"
+  ],
+  "answer": "आनंदपूर्ण",
+  "difficulty": 1,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d183cb391917f2f4d5d99"
+  },
+  "question": "हिंदी में 'परिहार्य' का विपरीतार्थी क्या है?",
+  "options": [
+    "दुर्हार्य",
+    "दुःखित",
+    "अपरिहार्य",
+    "अच्छूत"
+  ],
+  "answer": "अपरिहार्य",
+  "difficulty": 3,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d183cb391917f2f4d5d9a"
+  },
+  "question": "हिंदी में 'प्रतिबंधित' का समानार्थी क्या है?",
+  "options": [
+    "प्रतिबंधित",
+    "आवश्यक",
+    "मुक्त",
+    "निषेध"
+  ],
+  "answer": "निषेध",
+  "difficulty": 3,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d183cb391917f2f4d5d9b"
+  },
+  "question": "हिंदी में 'अपने विचारों में खोया हुआ' का विपरीतार्थी क्या है?",
+  "options": [
+    "स्वास्थ्यपूर्ण",
+    "बौद्धिक",
+    "सतर्क",
+    "अनवार्य"
+  ],
+  "answer": "सतर्क",
+  "difficulty": 3,
+  "language": "Hindi"
+},
+{
+  "_id": {
+    "$oid": "657d183cb391917f2f4d5d9c"
+  },
+  "question": "हिंदी में 'अनावश्यक' का अर्थ क्या है?",
+  "options": [
+    "आवश्यक",
+    "सुप्रभात",
+    "अनावश्यक",
+    "मुक्त"
+  ],
+  "answer": "अनावश्यक",
+  "difficulty": 3,
+  "language": "Hindi"
+}]
