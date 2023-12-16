@@ -22,7 +22,7 @@ app.use(cors(corsOptions));
 app.use(bodyParser.json());
 
 
-mongoose.connect('mongodb+srv://shaiksalam2002:<password>@cluster0.sjaa1ru.mongodb.net/?retryWrites=true&w=majority', {});
+mongoose.connect('mongodb+srv://shaiksalam2002:<Salam@2002>@cluster0.sjaa1ru.mongodb.net/', {});
 
 
 const User = require('./models/user');
