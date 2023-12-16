@@ -11,7 +11,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 const corsOptions = {
-    origin: ['http://localhost:5173','https://frontquiz.onrender.com'], 
+    origin: ['http://localhost:5173','https://frontquiz-8593.onrender.com'], 
     credentials: true,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,UPDATE',
     optionsSuccessStatus: 204,
@@ -22,8 +22,8 @@ app.use(cors(corsOptions));
 app.use(bodyParser.json());
 
 
-mongoose.connect('mongodb://localhost:27017/language_game', {});
-mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('mongodb+srv://shaiksalam2002:<password>@cluster0.sjaa1ru.mongodb.net/?retryWrites=true&w=majority', {});
+
 
 const User = require('./models/user');
 const Exercise = require('./models/exercise');
