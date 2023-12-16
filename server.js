@@ -11,7 +11,7 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 const corsOptions = {
-    origin: ['http://localhost:5173','https://quizback.onrender.com'], 
+    origin: ['http://localhost:5173','https://frontquiz.onrender.com'], 
     credentials: true,
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,UPDATE',
     optionsSuccessStatus: 204,
