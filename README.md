@@ -3,4 +3,4 @@
 - download all dependencies
 
 -if in case not able to run app locally due to internal issues, i would provide screen record in this repository ,
- screen record of how our wuiz app looks and works .
+ screen record of how our quiz app looks and works , Video file name is (Quiz App Video.mov)
